@@ -8,7 +8,7 @@
 </p>
 
 #### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/Sh-Jil/Auto-Filter-Bot)
+#### This is Version 2 of [Auto Filter Bot](https://github.com/Secret-Arya/Auto-Filter-V2.git)
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -42,19 +42,18 @@ or
 
 [Click here to see tutorial video](https://youtu.be/zum9AUlOgtQ)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [InfotelGroup](#) and [Erich Daniken](#) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sh-Jil/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Secret-Arya/Auto-Filter-V2.git)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/Sh-Jil/Auto-Filter-Bot-V2
+git clone https://github.com/Secret-Arya/Auto-Filter-V2.git
 cd Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
