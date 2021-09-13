@@ -1,16 +1,16 @@
 {
     "name": "Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/0aa1618b5d2761581ebe8.jpg",
+    "logo": "https://cdn5.telesco.pe/file/h9GZO0tIecovRDuBZNyh7II-3tLG7wrh7VPVytj08U0OfIg9K0-iwxFi0tK6GcQtyXkw5Jps9QZm6r9YULVDrHPCH-Nu2yTzcRSoEHUho_AyDHIRkj7MKbQCDbqQhy-ELNkcB3SFT4rrkX9ieYvD08YYwy5TlUbbM2inw02oYZoShItQoFAwf9VtP8tpYViKIhRwjVWIJWk2bULpgWdJhWhGAABB3CvTrXGglliCW12gEOnt0RLtManbllwUZb7UD6kMTQwv-Y7L-Tx1k-__-qDRi9kr4Ue2fFBX-LCi8o65RlrWYFIj7Kem_jhCzWC08sIspchbe0Dk8wA_ztMyoA.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/Sh-Jil/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/shijilraj",
+    "website": "http://bgmiwar.ezyro.com",
+    "repository": "https://github.com/Secret-Arya/Auto-Filter-V2.git",
+    "success_url": "https://telegram.dog/SECRETWARIOR",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
